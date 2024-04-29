@@ -1,0 +1,15 @@
+@layer base {
+    html {
+        font-family: IRANYekan, system-ui, tahoma;
+        //   font-family: IRANSans, system-ui, tahoma;
+    }
+}
+
+.html-content p,
+.html-content p * {
+    font-family: IRANYekan !important;
+}
+
+@layer components {
+
+}
